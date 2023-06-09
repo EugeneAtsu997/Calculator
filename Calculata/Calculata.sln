@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculata", "Calculata\Calculata.csproj", "{C94C850E-3407-4AEE-852B-44E90BFBDC9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C94C850E-3407-4AEE-852B-44E90BFBDC9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C94C850E-3407-4AEE-852B-44E90BFBDC9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C94C850E-3407-4AEE-852B-44E90BFBDC9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C94C850E-3407-4AEE-852B-44E90BFBDC9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2CB35C5-563D-4874-BACE-BB10C3EDC4EF}
+	EndGlobalSection
+EndGlobal

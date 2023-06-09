@@ -1,0 +1,15 @@
+C:\Users\EUGENE\source\repos\Calculata\Calculata\obj\Debug\net6.0\Calculata.csproj.AssemblyReference.cache
+C:\Users\EUGENE\source\repos\Calculata\Calculata\obj\Debug\net6.0\Calculata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EUGENE\source\repos\Calculata\Calculata\obj\Debug\net6.0\Calculata.AssemblyInfoInputs.cache
+C:\Users\EUGENE\source\repos\Calculata\Calculata\obj\Debug\net6.0\Calculata.AssemblyInfo.cs
+C:\Users\EUGENE\source\repos\Calculata\Calculata\obj\Debug\net6.0\Calculata.csproj.CoreCompileInputs.cache
+C:\Users\EUGENE\source\repos\Calculata\Calculata\bin\Debug\net6.0\Calculata.exe
+C:\Users\EUGENE\source\repos\Calculata\Calculata\bin\Debug\net6.0\Calculata.deps.json
+C:\Users\EUGENE\source\repos\Calculata\Calculata\bin\Debug\net6.0\Calculata.runtimeconfig.json
+C:\Users\EUGENE\source\repos\Calculata\Calculata\bin\Debug\net6.0\Calculata.dll
+C:\Users\EUGENE\source\repos\Calculata\Calculata\bin\Debug\net6.0\Calculata.pdb
+C:\Users\EUGENE\source\repos\Calculata\Calculata\obj\Debug\net6.0\Calculata.dll
+C:\Users\EUGENE\source\repos\Calculata\Calculata\obj\Debug\net6.0\refint\Calculata.dll
+C:\Users\EUGENE\source\repos\Calculata\Calculata\obj\Debug\net6.0\Calculata.pdb
+C:\Users\EUGENE\source\repos\Calculata\Calculata\obj\Debug\net6.0\Calculata.genruntimeconfig.cache
+C:\Users\EUGENE\source\repos\Calculata\Calculata\obj\Debug\net6.0\ref\Calculata.dll
